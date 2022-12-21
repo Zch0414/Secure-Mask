@@ -9,9 +9,7 @@ Unfortunately, we cannot publish our dataset. You can collect your own data foll
 ## Code for Secure-Mask
 
 |-- processing_for_motion_vecor.py
-
 |-- splitting_for_motion_vector_mask.py
-
 |-- main
 
     |-- models
