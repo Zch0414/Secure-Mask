@@ -4,7 +4,7 @@ Usage for Secure-Mask
 
 ## Prepare data
 
-Unfortunately, we cannot public our dataset. You can collect your own data following Secure-Pose https://ieeexplore.ieee.org/abstract/document/9488798. After you get CSI-Image dataset and the corresponding motion vector, you can follow the following steps to build your own Secure-Mask system.
+Unfortunately, we cannot publish our dataset. You can collect your own data following Secure-Pose https://ieeexplore.ieee.org/abstract/document/9488798. After you get CSI-Image dataset and the corresponding motion vector, you can follow the following steps to build your own Secure-Mask system.
 
 ## Code for Secure-Mask
 
