@@ -93,7 +93,7 @@ def main():
                 mod = modulus(X, Y)
                 for m in range(ang.shape[0]):
                     for n in range(ang.shape[1]):
-                        if 0.5 * ang[m, n] + mod[m, n] > 1:
+                        if ang[m, n] + mod[m, n] > 1:
                             ang[m, n] = 255
                         else:
                             ang[m, n] = 0
