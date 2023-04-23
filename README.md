@@ -1,6 +1,5 @@
 # Secure-Mask
-Code for "Self-supervised Multi-Modal Video Forgery Attack Detection", WCNC 2023
-Usage for Secure-Mask
+Code for "Self-supervised Multi-Modal Video Forgery Attack Detection", WCNC 2023. Paper:https://arxiv.org/abs/2209.06345
 
 ## Prepare data
 
